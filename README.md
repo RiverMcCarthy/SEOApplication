@@ -26,7 +26,7 @@ This application allows users to enter a search phrase and a target URL to get s
 
 ### Frontend
 
-- **Vue.js** (v3) with Vue Router and Vuex
+- **Vue.js**
 - **Axios** for HTTP requests
 - **Vitest** for testing
 
@@ -69,7 +69,7 @@ Navigate to the SEOApplicationPortal folder and run the following command to ins
 npm install
 ```
 
-Start up the Application on port 8080 to access the API.
+Start up the Application on **port 8080** to access the API.
 
 ```sh
 npm run dev -- --port 8080
